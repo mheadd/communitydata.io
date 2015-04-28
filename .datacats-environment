@@ -1,0 +1,5 @@
+[datacats]
+name = community
+ckan_version = 2.3
+port = 5841
+
