@@ -1,6 +1,6 @@
 # CommunityData.io
 
-A federated data catlaog for community-managed open data portals.
+A federated data catalog for community-managed open data portals.
 
 ## Currecnt status
 
