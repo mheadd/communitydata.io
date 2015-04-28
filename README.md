@@ -27,9 +27,11 @@ Alternatively, you can also initialize this repo as a
 
 ```
 pip install datacats
+datacats pull
 cd communitydata.io/
 datacats init
 ```
 
 ## Deployment
-If you are a committer and want deploy privileges, talk to @mheadd
+If you are a committer and want deploy privileges, talk to
+[@mheadd](http://github.com/mheadd)
