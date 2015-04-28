@@ -2,6 +2,7 @@ Location,State,"Population (US Census, 2011)",Ownership?,Open Data Policy?,Link,
 Chattanooga,TN,170136,Community,Yes,https://data.chattlibrary.org/,US City or County,Socrata
 Cincinnati,OH,296223,Community,No,http://www.opendatacincy.org/,US City or County,Azavea
 Colorado,CO,5116796,Community,No,http://data.opencolorado.org,US State,CKAN
+Louisville,KY,741096,Community,Yes,http://data.civicdataalliance.org/,US City or County,CKAN
 New Hampshire,NH,1318194,Community,Yes,http://nhopengovt.org/,US State,Home grown
 New Jersey,NJ,8821155,Community,in progress,http://data.codefornewark.org/tr/dataset,US State,CKAN
 Oakland,CA,389397,Community,Yes,http://data.openoakland.org/,US City or County ,DKAN
