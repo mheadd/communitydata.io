@@ -2,9 +2,9 @@
 
 A federated data catalog for community-managed open data portals.
 
-## Currecnt status
+## Current status
 
- A basic CKAN instance to support this effort has been [set up](http://communitydata.io/api/util/status), and several community-mamanged data portals have [been identified](communityopendatacatalogs.csv).
+A basic CKAN instance to support this effort has been [set up](http://communitydata.io/api/util/status), and several community-mamanged data portals have [been identified](communityopendatacatalogs.csv).
 
 ## How you can help
 

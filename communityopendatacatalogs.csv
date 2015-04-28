@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 Location,State,"Population (US Census, 2011)",Ownership?,Open Data Policy?,Link,Type ,Platform Chattanooga,TN,170136,Community,Yes,https://data.chattlibrary.org/,US City or County,SocrataCincinnati,OH,296223,Community,No,http://www.opendatacincy.org/,US City or County,AzaveaColorado,CO,5116796,Community,No,http://data.opencolorado.org,US State,CKANNew Hampshire,NH,1318194,Community,Yes,http://nhopengovt.org/,US State,Home grownNew Jersey,NJ,8821155,Community,in progress,http://data.codefornewark.org/tr/dataset,US State,CKANOakland,CA,389397,Community,Yes,http://data.openoakland.org/,US City or County ,DKANPhiladelphia,PA,1514456,Community,Yes,http://www.opendataphilly.org/,US State,AzaveaSan Diego,CA,1307402,Community,in progress,http://catalog.opensandiego.org/,US City or County,AzaveaWashington D.C.,DC,797983,Community,Yes,http://www.opendatadc.org/,US District,CKANKansas City,MO,467007,Community,Yes,https://data.kcmo.org/,US City or County,SocrataBaltimore,MD,622793,Community,Yes,https://data.baltimorecity.gov/,US City or County,Socrata
+=======
+Location,State,"Population (US Census, 2011)",Ownership?,Open Data Policy?,Link,Type ,Platform 
+Chattanooga,TN,170136,Community,Yes,https://data.chattlibrary.org/,US City or County,Socrata
+Cincinnati,OH,296223,Community,No,http://www.opendatacincy.org/,US City or County,Azavea
+Colorado,CO,5116796,Community,No,http://data.opencolorado.org,US State,CKAN
+New Hampshire,NH,1318194,Community,Yes,http://nhopengovt.org/,US State,Home grown
+New Jersey,NJ,8821155,Community,in progress,http://data.codefornewark.org/tr/dataset,US State,CKAN
+Oakland,CA,389397,Community,Yes,http://data.openoakland.org/,US City or County ,DKAN
+Philadelphia,PA,1514456,Community,Yes,http://www.opendataphilly.org/,US State,Azavea
+San Diego,CA,1307402,Community,in progress,http://catalog.opensandiego.org/,US City or County,Azavea
+Washington D.C.,DC,797983,Community,Yes,http://www.opendatadc.org/,US District,CKAN
+Kansas City,MO,467007,Community,Yes,https://data.kcmo.org/,US City or County,Socrata
+Berkeley,CA,113974,Community,Yes,https://data.cityofberkeley.info/,US City or County,Socrata
+>>>>>>> 188a12eb24f9f12940714c1b49760509137aa63b
