@@ -8019,7 +8019,7 @@ h4 small {
 }
 @media (min-width: 768px) {
   .hero {
-    background: url("../../../base/images/databg.jpg") top center no-repeat;
+    background: url("/datacats/databg.jpg") top center no-repeat;
     /*background from http://www.freepik.com*/
   }
 }
