@@ -33,21 +33,28 @@ datacats init
 ```
 
 ### Setting up the Harvester
-Point the `ckan.harvest.mq.hostname` variable in the .ini to a redis instance,
-which will act as a job queue. Then to run jobs, run the commands in the
-harvester [docs](https://github.com/ckan/ckanext-harvest#running-the-harvest-jobs)
 
-Note - if you are using datacats, you can run these commands easily like so:
+If you are using datacats, you can run the harvester commands like so:
 ```
 cd community/ckanext-harvest/
-datacats paster harvester gather_consumer
-datacats paster harvester fetch_consumer
+datacats paster -d harvester gather_consumer
+datacats paster -d harvester fetch_consumer
 datacats paster harvester run
 ```
 
 You will of course still need to set up
 [harvest sources](communityopendatacatalogs.csv) on the ckan harvest admin
 interface at `/harvest`.
+
+## Design files
+Design for the site is done in `less`, and is located in `ckanext-communitytheme/ckanext/communitytheme/design`. If you make changes to
+the less files, you need to compile the following two less files into the
+following locations:
+
+```
+/base/less/main.less > ../fanstatic/main.css
+/base/vendor/bootstrap/less/bootstrap.less > ../fanstatic/bootstrap.css
+```
 
 ## Deployment
 If you are a committer and want deploy privileges, talk to
