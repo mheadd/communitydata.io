@@ -3,3 +3,10 @@ name = community
 ckan_version = 2.3
 port = 5841
 
+[deploy]
+target = datacats@command.datacats.com
+
+[site_primary]
+port = 5264
+address = 127.0.0.1
+
